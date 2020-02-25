@@ -48,7 +48,7 @@ It will also be useful to check out sklearn's page on [clustering](https://sciki
 and [evaluation metrics](https://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation) 
 
 ### Examples
-https://github.com/liliblu/hypercluster/tree/dev/examples
+https://github.com/ruggleslab/hypercluster/tree/dev/examples
 
 ### Quickstart with SnakeMake
 

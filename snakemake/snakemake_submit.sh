@@ -11,7 +11,6 @@
 module purge
 module add slurm
 source activate hypercluster
-cd /gpfs/home/lmb529/ruggleslabHome/hypercluster
 mkdir -p logs/slurm/
 
 snakemake -j 999 -p --verbose \
